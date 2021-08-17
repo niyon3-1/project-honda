@@ -1,0 +1,20 @@
+.bg_header {
+  background-color: #264653;
+}
+.bg_btn {
+  background-color: #e76f51;
+}
+.bg_btn:hover {
+  background-color: #c2715d;
+}
+
+.img-gray-scale {
+  filter: grayscale(100%);
+}
+
+.font-clr {
+  color: #23a6f0;
+}
+.font-color {
+  color: #e76f51;
+}
